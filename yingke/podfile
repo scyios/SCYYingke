@@ -1,0 +1,15 @@
+platform :ios, '8.0'
+
+target "yingke" do
+pod 'AFNetworking'
+pod 'SDWebImage'
+pod 'MBProgressHUD'
+pod 'UITextView+Placeholder', '~> 1.2'
+pod 'Masonry'
+pod 'MJRefresh'
+pod 'BlocksKit'
+pod 'MJExtension'
+pod 'JazzHands', '2.0.0'
+pod 'YYCache'
+pod 'WMPageController'
+end
